@@ -1,6 +1,6 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #bcc8d6;
+  background-image: url(IMG/hero.jpg);
 }
 
 #projects {
@@ -9,4 +9,11 @@
 
 section {
   padding-top: 5rem;
+}
+#navbarText a:hover {
+  background-color: salmon;
+}
+footer a {
+  color: #7a7b7c;
+  text-decoration: none;
 }
